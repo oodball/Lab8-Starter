@@ -1,8 +1,8 @@
 {
-    "name": "Lab8-Starter",
-    "short_name": "Audrey",
-    "description": "PWA",
-    "start_url": "/",
+    "name": "Audrey Lab8-Starter",
+    "short_name": "Audrey-Liang",
+    "description": "PWA thanksgiving",
+    "start_url": "./index.html",
     "display": "standalone",
     "background_color": "#0D261D",
     "theme_color": "#40916C",
